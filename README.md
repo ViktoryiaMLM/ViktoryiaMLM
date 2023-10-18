@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Viktoryia
-- 
+
+- ✨ I'm QA Engineer
 - 🌱 I’m currently learning English
 - 
 
